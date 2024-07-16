@@ -6,3 +6,4 @@ pytest == 7.3.0 # For unit test
 pytest-xdist == 3.2.1 # For unit test
 mypy == 1.2.0 # For unit test
 ruff == 0.0.261 # For unit test
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
